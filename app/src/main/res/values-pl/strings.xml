@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">budgetApplication</string>
+    <string name="login">Zaloguj</string>
+    <string name="username">Uzytkownik</string>
+    <string name="password">Haslo</string>
+    <string name="signup">Zarejestruj</string>
+    <string name="alreadyAccount">Jesli posiadasz konto, zaloguj sie!</string>
+    <string name="loginNow">Zaloguj</string>
+    <string name="emReq">Email jest wymagane!</string>
+    <string name="passReq">Haslo jest wymagane</string>
+    <string name="addExpensee">Dodaj</string>
+    <string name="check">sprawdz</string>
+    <string name="englishLib">polishlib</string>
+    <string name="moneyweSpent">Pieniadze ktore wydalismy</string>
+
+
+    <!--<array name="kategoria">
+        <item>Jedzenie</item>
+        <item>Paliwo</item>
+        <item>Zabawa</item>
+        <item>Ubrania</item>
+        <item>Podroze</item>
+    </array>-->
+
+    <string name="type_proper_email">Wprowadz poprawny adres email</string>
+    <string name="type_proper_password">Haslo minimum 6 znakow</string>
+    <string name="show">Wyswietl</string>
+    <string name="add">Dodaj</string>
+    <string name="chart">Wykres</string>
+    <string name="books">Ksiazki</string>
+    <string name="search">Szukaj</string>
+    <string name="addingExpense">Dodawanie wydatku</string>
+    <string name="hintPrice">Cena</string>
+    <string name="chartCategory">Kategorie</string>
+</resources>
